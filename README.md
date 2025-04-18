@@ -15,4 +15,5 @@ Set the internal variable SERVICE_NAME to the file name of service_name.service.
 
 <br>
 <hr>
+<br>
 Once you've set up everything, run sudo bash service_regi.sh. Is it registered properly?
