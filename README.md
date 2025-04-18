@@ -1,7 +1,6 @@
 # Default Service
 Put these files in your project, modify stater.sh and .service files, and run service_regi.sh, and your program will run in the background as a service.
 > Set up the files below according to the instructions.
-<hr>
 
 ## stater.sh
 Change SERVICE_NAME to your service name. Modify the Start Script below accordingly.
