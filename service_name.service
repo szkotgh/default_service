@@ -1,0 +1,12 @@
+[Unit]
+Description=YOUR_DESCRIPTION
+Documentation=https://github.com/szkotgh/default_service.git
+After=network.target
+
+[Service]
+ExecStart=/bin/sudo /bin/bash /your/project/path/stater.sh
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
